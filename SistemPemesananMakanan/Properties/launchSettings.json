@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SistemPemesananMakanan": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

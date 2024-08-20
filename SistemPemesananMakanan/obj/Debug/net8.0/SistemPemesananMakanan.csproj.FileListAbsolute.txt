@@ -1,0 +1,14 @@
+C:\Users\Lab-002\project\.net8\modul7\SistemPemesananMakanan\SistemPemesananMakanan\obj\Debug\net8.0\SistemPemesananMakanan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab-002\project\.net8\modul7\SistemPemesananMakanan\SistemPemesananMakanan\obj\Debug\net8.0\SistemPemesananMakanan.AssemblyInfoInputs.cache
+C:\Users\Lab-002\project\.net8\modul7\SistemPemesananMakanan\SistemPemesananMakanan\obj\Debug\net8.0\SistemPemesananMakanan.AssemblyInfo.cs
+C:\Users\Lab-002\project\.net8\modul7\SistemPemesananMakanan\SistemPemesananMakanan\obj\Debug\net8.0\SistemPemesananMakanan.csproj.CoreCompileInputs.cache
+C:\Users\Lab-002\project\.net8\modul7\SistemPemesananMakanan\SistemPemesananMakanan\bin\Debug\net8.0\SistemPemesananMakanan.exe
+C:\Users\Lab-002\project\.net8\modul7\SistemPemesananMakanan\SistemPemesananMakanan\bin\Debug\net8.0\SistemPemesananMakanan.deps.json
+C:\Users\Lab-002\project\.net8\modul7\SistemPemesananMakanan\SistemPemesananMakanan\bin\Debug\net8.0\SistemPemesananMakanan.runtimeconfig.json
+C:\Users\Lab-002\project\.net8\modul7\SistemPemesananMakanan\SistemPemesananMakanan\bin\Debug\net8.0\SistemPemesananMakanan.dll
+C:\Users\Lab-002\project\.net8\modul7\SistemPemesananMakanan\SistemPemesananMakanan\bin\Debug\net8.0\SistemPemesananMakanan.pdb
+C:\Users\Lab-002\project\.net8\modul7\SistemPemesananMakanan\SistemPemesananMakanan\obj\Debug\net8.0\SistemPemesananMakanan.dll
+C:\Users\Lab-002\project\.net8\modul7\SistemPemesananMakanan\SistemPemesananMakanan\obj\Debug\net8.0\refint\SistemPemesananMakanan.dll
+C:\Users\Lab-002\project\.net8\modul7\SistemPemesananMakanan\SistemPemesananMakanan\obj\Debug\net8.0\SistemPemesananMakanan.pdb
+C:\Users\Lab-002\project\.net8\modul7\SistemPemesananMakanan\SistemPemesananMakanan\obj\Debug\net8.0\SistemPemesananMakanan.genruntimeconfig.cache
+C:\Users\Lab-002\project\.net8\modul7\SistemPemesananMakanan\SistemPemesananMakanan\obj\Debug\net8.0\ref\SistemPemesananMakanan.dll
